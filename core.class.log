@@ -1,0 +1,366 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493562559311@s.whatsapp.net',
+    fromMe: false,
+    id: 'BDC2142565158438C8DD282952DD7C34',
+    participant: undefined
+  },
+  messageTimestamp: 1733797144,
+  pushName: 'Espe',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5493562559311'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3eadea04-c1e2-49ea-9314-f1511c7431be',
+  keyword: 'key_3f1fa252-ea88-41be-bdc6-ce6ff960a9ba',
+  answer: 'Hola, te estas comunicando con un hombre casado con el amor de su vida\n' +
+    '¿Su nombre? Espi Scianca ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bd83a00575c17a547621f63e9f2cb911'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493562559311@s.whatsapp.net',
+    fromMe: false,
+    id: '65A4CE65E114CF5DB56CFBF55436A7B9',
+    participant: undefined
+  },
+  messageTimestamp: 1733797148,
+  pushName: 'Espe',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola amor',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola amor',
+  from: '5493562559311'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3eadea04-c1e2-49ea-9314-f1511c7431be',
+  keyword: 'key_3f1fa252-ea88-41be-bdc6-ce6ff960a9ba',
+  answer: 'Hola, te estas comunicando con un hombre casado con el amor de su vida\n' +
+    '¿Su nombre? Espi Scianca ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bd83a00575c17a547621f63e9f2cb911'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493562559311@s.whatsapp.net',
+    fromMe: false,
+    id: 'CF92099E61E2E9DEC1A38D92805CF35C',
+    participant: undefined
+  },
+  messageTimestamp: 1733797158,
+  pushName: 'Espe',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/29953248_594906539743879_8502125846638195509_n.enc?ccb=11-4&oh=01_Q5AaIPWBrwxyTUZH5m6xH0DkWtufHPb-pL9yvNxmy3TqxsvP&oe=677F2368&_nc_sid=5e03e0&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      directPath: '/v/t62.15575-24/29953248_594906539743879_8502125846638195509_n.enc?ccb=11-4&oh=01_Q5AaIPWBrwxyTUZH5m6xH0DkWtufHPb-pL9yvNxmy3TqxsvP&oe=677F2368&_nc_sid=5e03e0',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false,
+      contextInfo: [ContextInfo],
+      stickerSentTs: [Long],
+      isAvatar: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__a0935ebf-fac2-466b-a701-f3ba345b9d0f',
+  from: '5493562559311'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493562559311@s.whatsapp.net',
+    fromMe: false,
+    id: '113DB7BE1B17ABE8D1A43121DDAF15D4',
+    participant: undefined
+  },
+  messageTimestamp: 1733797164,
+  pushName: 'Espe',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'No',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '5493562559311'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493562559311@s.whatsapp.net',
+    fromMe: false,
+    id: '560DB36A4E456D3337A478620A74C3F1',
+    participant: undefined
+  },
+  messageTimestamp: 1733797171,
+  pushName: 'Espe',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Quiero a mi Mati',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Quiero a mi Mati',
+  from: '5493562559311'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493562559311@s.whatsapp.net',
+    fromMe: false,
+    id: '2E213AE63AD61F33FB4F751F7A7F0744',
+    participant: undefined
+  },
+  messageTimestamp: 1733797174,
+  pushName: 'Espe',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'No a un bot',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No a un bot',
+  from: '5493562559311'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493562559311@s.whatsapp.net',
+    fromMe: false,
+    id: '05CE2103B1697CBD4753700BF3C95E80',
+    participant: undefined
+  },
+  messageTimestamp: 1733797180,
+  pushName: 'Espe',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'APAGAL',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'APAGAL',
+  from: '5493562559311'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493562559311@s.whatsapp.net',
+    fromMe: false,
+    id: '53D8601D9CDE7DFDDE7D6732E4B81B53',
+    participant: undefined
+  },
+  messageTimestamp: 1733797185,
+  pushName: 'Espe',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    },
+    editedMessage: FutureProofMessage { message: [Message] }
+  },
+  status: 4,
+  body: '',
+  from: '5493562559311'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493562559311@s.whatsapp.net',
+    fromMe: false,
+    id: 'A7484C69BC6042D4B19C25296AD8663B',
+    participant: undefined
+  },
+  messageTimestamp: 1733797190,
+  pushName: 'Espe',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5493562559311'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3eadea04-c1e2-49ea-9314-f1511c7431be',
+  keyword: 'key_3f1fa252-ea88-41be-bdc6-ce6ff960a9ba',
+  answer: 'Hola, te estas comunicando con un hombre casado con el amor de su vida\n' +
+    '¿Su nombre? Espi Scianca ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bd83a00575c17a547621f63e9f2cb911'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493562559311@s.whatsapp.net',
+    fromMe: false,
+    id: 'BF5C442649169C1E1602390A8A5E313F',
+    participant: undefined
+  },
+  messageTimestamp: 1733797192,
+  pushName: 'Espe',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola amor',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola amor',
+  from: '5493562559311'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3eadea04-c1e2-49ea-9314-f1511c7431be',
+  keyword: 'key_3f1fa252-ea88-41be-bdc6-ce6ff960a9ba',
+  answer: 'Hola, te estas comunicando con un hombre casado con el amor de su vida\n' +
+    '¿Su nombre? Espi Scianca ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bd83a00575c17a547621f63e9f2cb911'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493562559311@s.whatsapp.net',
+    fromMe: false,
+    id: 'C1C792C06D500FE9C61063C1AFA32A28',
+    participant: undefined
+  },
+  messageTimestamp: 1733797196,
+  pushName: 'Espe',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'BASTA',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'BASTA',
+  from: '5493562559311'
+}
